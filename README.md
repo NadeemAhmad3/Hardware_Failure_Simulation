@@ -11,7 +11,6 @@
 
 **A futuristic digital journal with realistic disk failure simulation for educational purposes**
 
-[Live Demo](#-live-demo) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
 </div>
 
